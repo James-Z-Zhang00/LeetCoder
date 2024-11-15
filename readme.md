@@ -7,11 +7,11 @@ Create a separate folder for each LeetCode question
 Folder name follow `<Question Number>. <Question Name>`
 
 Inside each folder:
-   1. GenSol.py *General Solution*
-   2. CnE.py *Crack and Expand the knowledge*
+   1. GenSol.py or GenSol.js *General Solution*
+   2. CnE.py or CnE.js *Crack and Expand the knowledge*
    3. PDF/Markdown file to explain each step in detail *(optioanl)*
 
-Inside .py file:
+Inside .py or .js file:
    ```python 
    '''
    <Question Number>. <Question Name>
