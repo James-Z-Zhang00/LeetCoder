@@ -30,3 +30,13 @@ Inside .py or .js file:
    ```
 
 I don't learn LeetCode for interviews, for brain exercise only
+
+## Update
+
+The new file naming system
+
+The first solution `Sol_1.py`
+
+The second solution `Sol_2.py`
+
+And so on ...
